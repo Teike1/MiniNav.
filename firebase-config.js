@@ -1,5 +1,6 @@
 const firebaseConfig = {
   apiKey: "AIzaSyBquG-WXqyxVaPwFJZNnCEkzrO_4qkThiQ",
+  authDomain: "minimap-project.firebaseapp.com",
   projectId: "minimap-project",
   storageBucket: "minimap-project.appspot.com",
   messagingSenderId: "1234567890",
